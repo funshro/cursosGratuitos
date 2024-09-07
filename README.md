@@ -1,5 +1,5 @@
-## Busca Rápida de Cursos Gratuitos
-
+## Busca Rápida de Cursos Gratuitos - Imersão Dev com Google Gemini
+ 
 **O que faz essa aplicação?**
 
 Imagina que você quer aprender uma nova habilidade, mas não sabe por onde começar. Essa aplicação te ajuda a encontrar cursos online de graça de forma rápida e fácil! 
